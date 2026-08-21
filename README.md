@@ -2,4 +2,4 @@
 
 ## Q1
 
-[Smart School Canteen Queue](q1/ctskillsSodiumAlpha.md)
+[Smart School Canteen Queue](q1/ctskillsPotassium.md)
