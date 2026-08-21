@@ -1,1 +1,5 @@
-# ctskills-potassium-Digal_Ferarren_Salac
+# CT Skills Potassium Team
+
+## Q1
+
+[Smart School Canteen Queue](q1/ctskillsSodiumAlpha.md)
